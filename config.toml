@@ -1,5 +1,6 @@
-https://loyolachicagobooks.github.io/systems2-docs/
+baseURL = "https://loyolachicagobooks.github.io/systems2-docs/"
 title = "Systems Docs"
+publishDir = "public"
 
 enableRobotsTXT = true
 
