@@ -19,9 +19,11 @@ jobs:
         with:
           hugo-version: 'latest'
 
-      - name: Build
-        run:  hugo --minify
-
+      - run: sudo npm install
+      - run: sudo npm install -g postcss-cli
+      - run: sudo npm install -D postcss
+      - run: sudo npm install postcss@latest autoprefixer@latest
+      - run: hugo --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
