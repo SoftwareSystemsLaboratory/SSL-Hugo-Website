@@ -20,7 +20,7 @@ jobs:
           hugo-version: 'latest'
 
       - name: Build with Hugo and add npm modules
-      - run: |
+        run: |
           sudo npm install
           sudo npm install -g postcss-cli
           sudo npm install -D postcss
