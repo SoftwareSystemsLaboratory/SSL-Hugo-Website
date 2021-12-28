@@ -5,15 +5,8 @@ linktitle: "Getting Help"
 date: 2017-01-05
 description: >
  This page describes how to get help. 
+draft: 
 ---
-
-{{% pageinfo %}}
-
-Note: We will establish a Loyola CS Systems Team so faculty, students, and staff can reach out to use for help.
-We should probably drop the e-mail support soon.
-
-{{% /pageinfo %}}
-
 
 ## E-mail
 

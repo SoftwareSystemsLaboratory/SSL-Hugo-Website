@@ -12,7 +12,7 @@ description: >
 {{% pageinfo %}}
 
 All computer science majors and interdisciplinary majors now take COMP 141, which teaches you about the command line and fundamentals of Unix/Linux.
-This is primarily aimed at those who have not taken COMP 141, which should become a small number after 2022.
+This is primarily aimed at those who have not taken [COMP 141](https://academics.cs.luc.edu/courses/comp141.html), which should become a small number after 2022.
 
 {{% /pageinfo %}}
 

@@ -4,7 +4,8 @@ title: "Academic Alliances"
 linktitle: "Academic Alliances"
 date: 2017-01-05
 description: >
-  A short lead description about this content page. It can be **bold** or _italic_ and can be split over multiple paragraphs.
+  The department belongs to many academic programs, including Apple, Microsoft, and VMWare.
+  We also use many cloud services, not covered here.
 ---
 
 The department has active memberships in various academic alliance
