@@ -10,7 +10,6 @@ description: >
 The department has active memberships in various academic alliance
 programs:
 
-
 ## Microsoft Developer Network (MSDN AA)
 
 The Computer Science Department is a member of the MSDN Academic

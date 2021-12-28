@@ -1,6 +1,15 @@
-# Linux Primer
+---
+tags: ["Linux", "Unix", "Command Line"]
+title: "Command Line Basics"
+linktitle: "Command Line Basics"
+date: 2017-01-05
+description: >
+ Getting started with the Unix/Linux command line. 
+---
 
 ## Getting Started
+
+**Note: All computer science majors and interdisciplinary majors now take COMP 141, which teaches you about the command line and fundamentals of Unix/Linux. This is primarily aimed at those who have not taken COMP 141.**
 
 There are many tutorials on the web, just Google around and you will
 find them. A decent online tutorial is available for example at

@@ -1,7 +1,7 @@
 ---
 tags: ["Google","Apps"]
-title: "Google Apps"
-linktitle: "Google Apps"
+title: "Google Workspace"
+linktitle: "Google Workspace"
 date: 2017-01-05
 description: >
   Google Workspace info
@@ -14,9 +14,10 @@ which allows individuals, workgroups (e.g. project teams in classes),
 research groups, and other collaborations to host their own private or
 public web sites. While this software is officially in beta, it\'s
 already proving to be a winner for many needs. Moreover, we can assign
-you your own hostname within one of the 3 domains. Examples include
+you your own hostname within one of the 3 domains.
+
+Examples include
 [www.etl.luc.edu](http://www.etl.luc.edu),
-[gkt.etl.luc.edu](http://gkt.etl.luc.edu),
 [doty.math.luc.edu](http://doty.math.luc.edu), and
 [tonyg.math.luc.edu](http://tonyg.math.luc.edu).
 

@@ -1,4 +1,11 @@
-# Remote Access
+---
+tags: ["remote", "VPN", "SSH", "RDP"]
+title: "Remote Access"
+linktitle: "Remote Access"
+date: 2017-01-05
+description: >
+  Remote access to systems in our department. 
+---
 
 All users of our systems can access their files remotely; however, we
 currently do not provide general support to students or faculty for

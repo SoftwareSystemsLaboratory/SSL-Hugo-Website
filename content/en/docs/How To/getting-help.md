@@ -11,10 +11,7 @@ description: >
 
 Please direct all inquiries to Miao Ye (<helpdesk@cs.luc.edu>).
 
-## Mailing List
+## Microsoft Teams
 
-We maintain a Google Group for systems announcements. At the moment,
-access is by invitation only. Please e-mail Miao Ye if you wish to be
-added to this list. (A link to the subscription page will appear
-shortly.)
-
+Please join the **Loyola CS Systems** group on Loyola's Microsoft Teams *effective after Jnaury 1, 2022*.
+This is available to Loyola faculty, staff, and students *only*.

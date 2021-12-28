@@ -1,4 +1,11 @@
-# SSH
+---
+tags: ["SSH"]
+title: "Secure Shell"
+linktitle: "Secure Shell"
+date: 2017-01-05
+description: >
+  Getting started with SSH/Secure Shell at Loyola.
+---
 
 Not all computer systems in the department are intended for general use,
 and some are restricted to faculty and staff usage. (And many are
