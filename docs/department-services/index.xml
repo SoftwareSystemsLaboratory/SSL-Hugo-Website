@@ -1,0 +1,67 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Systems Docs – Department Services</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/department-services/</link><description>Recent content in Department Services on Systems Docs</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/department-services/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Academic Alliances</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/department-services/academic-alliances-programs/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/department-services/academic-alliances-programs/</guid><description>
+&lt;p>The department has active memberships in various academic alliance
+programs:&lt;/p>
+&lt;h2 id="microsoft-developer-network-msdn-aa">Microsoft Developer Network (MSDN AA)&lt;/h2>
+&lt;p>The Computer Science Department is a member of the MSDN Academic
+Alliance.&lt;/p>
+&lt;p>If you already know your login info, visit
+&lt;a href="http://bit.ly/msdn-loyola-chicago-cs">http://bit.ly/msdn-loyola-chicago-cs&lt;/a>.&lt;/p>
+&lt;p>With this membership, any student who takes a computer science course
+will have an account to download the latest development tools, operating
+systems, server software, documentation, and technical references at
+his/her fingertips for free.&lt;/p>
+&lt;p>If you need to retrieve your username and password, try this:&lt;/p>
+&lt;ul>
+&lt;li>Username and Password: Your username is your Loyola email address.
+The email address must be entered in the form of &lt;em>xyz@luc.edu&lt;/em>.&lt;/li>
+&lt;li>Click the &lt;em>Sign In&lt;/em> button on the top right. Click the button in
+&lt;em>forgot your username or password?&lt;/em> section for a reminder. Check
+your Loyola email to get your password.&lt;/li>
+&lt;/ul>
+&lt;p>Please note that the MSDNAA &lt;em>excludes&lt;/em> Microsoft Office. All Loyola
+University Chicago students have access to Microsoft Office 365. See
+&lt;a href="http://www.luc.edu/its/exchange/about_office_365.shtml">http://www.luc.edu/its/exchange/about_office_365.shtml&lt;/a> for details.
+(This does not cover faculty and staff, who need to get their own
+subscription.)&lt;/p>
+&lt;p>If you have a Mac running OS X, you can download VMware (see below) and
+install it. Then install Windows and other Windows applications as
+usual.&lt;/p>
+&lt;h2 id="vmware-academic-program-vmap">VMware Academic Program (VMAP)&lt;/h2>
+&lt;p>The Computer Science Department is a member of the VMware Academic
+Program (VMAP).&lt;/p>
+&lt;p>VMware provides VMware Workstation and other virtualization products,
+which are helpful for users who may want to run Windows, Linux, and
+other operating systems on their Windows, Mac OS X, or Linux computers.&lt;/p>
+&lt;ul>
+&lt;li>Mac users should download VMware Fusion.&lt;/li>
+&lt;li>Windows or Linux users should download VMware Workstation.&lt;/li>
+&lt;/ul>
+&lt;p>If you already know your login info, visit
+&lt;a href="http://bit.ly/vmap-loyola-chicago-cs">http://bit.ly/vmap-loyola-chicago-cs&lt;/a>.&lt;/p>
+&lt;h2 id="apple-developer-program">Apple Developer Program&lt;/h2>
+&lt;p>The Computer Science Department is a member of the Apple Developer
+Progarm.&lt;/p>
+&lt;p>Information can be found at
+&lt;a href="https://developer.apple.com/programs/ios/university/gettingstarted/">https://developer.apple.com/programs/ios/university/gettingstarted/&lt;/a>.&lt;/p>
+&lt;p>This program requires a bit of special handling, so please contact the
+lab manager at &lt;code>people&lt;/code>{.interpreted-text role=&amp;ldquo;doc&amp;rdquo;} to be enrolled.&lt;/p></description></item><item><title>Docs: Google Apps</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/department-services/google-apps-cs/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/department-services/google-apps-cs/</guid><description>
+&lt;p>The CS and Mathematics departments subscribe to Google Apps for Your
+Domain. Among other things, we can host sites, e-mail, documents,
+calendaring, etc. Our primary use at the moment is for Google Sites,
+which allows individuals, workgroups (e.g. project teams in classes),
+research groups, and other collaborations to host their own private or
+public web sites. While this software is officially in beta, it's
+already proving to be a winner for many needs. Moreover, we can assign
+you your own hostname within one of the 3 domains. Examples include
+&lt;a href="http://www.etl.luc.edu">www.etl.luc.edu&lt;/a>,
+&lt;a href="http://gkt.etl.luc.edu">gkt.etl.luc.edu&lt;/a>,
+&lt;a href="http://doty.math.luc.edu">doty.math.luc.edu&lt;/a>, and
+&lt;a href="http://tonyg.math.luc.edu">tonyg.math.luc.edu&lt;/a>.&lt;/p>
+&lt;p>We reserve the right to terminate any Google site that contains
+inappropriate content or is reported to Google or us as being offensive.
+So we ask that if you have such uses in mind to consider setting up your
+own Google Site that is not connected to LUC or the department proper.
+We are not generally taking advantage of e-mail and other services at
+this time and reserve these address for faculty and researchers
+officially connected to the department. To request a Google Site or
+other service, please see &lt;code>getting-help&lt;/code>{.interpreted-text role=&amp;ldquo;doc&amp;rdquo;}.&lt;/p></description></item></channel></rss>
