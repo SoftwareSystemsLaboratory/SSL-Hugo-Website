@@ -1,10 +1,10 @@
 ---
-tags: ["alliances"]
-title: "Academic Alliances"
-linktitle: "Academic Alliances"
+tags: ["AI","ML","Machine Learning", "GPGPU"]
+title: "Durian GPGPU Server"
+linktitle: "Durian GPGPU Server"
 date: 2017-01-05
 description: >
-  A short lead description about this content page. It can be **bold** or _italic_ and can be split over multiple paragraphs.
+  Getting started with the Durian GPGPU from Lambda Systems.
 ---
 
 {{% pageinfo %}}
