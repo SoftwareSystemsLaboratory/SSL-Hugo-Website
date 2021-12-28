@@ -1,0 +1,70 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Systems Docs – ITS Services</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/its-services/</link><description>Recent content in ITS Services on Systems Docs</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/its-services/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Printing</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/its-services/printing/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/its-services/printing/</guid><description>
+&lt;div class="pageinfo pageinfo-primary">
+&lt;p>This page needs some updates.&lt;/p>
+&lt;/div>
+&lt;h1 id="printing-in-the-labs">Printing in the Labs&lt;/h1>
+&lt;p>The department maintains a number of printers for its faculty, staff,
+and teaching/research assistants. These printers are not for general
+student use, and it is prohibited to print to them without permission
+from the department. That said, if you need to print something, in some
+cases we can accommodate your requests. Please contact the department
+secretary, Jean Rom, during normal business hours.&lt;/p>
+&lt;p>There are ITS-maintained Windows labs at Damen (339, 342) and Lewis
+Towers (LT 410/411) that use the PrintWise system. You'll need to have
+funds loaded on your ID to take advantage of these printers as a card
+swipe is required to print your document (from the PrintWise station).
+As with anything else in the Windows Labs, please report printing
+problems directly to ITS at &lt;a href="https://heatss.it.luc.edu/HeatLDAP/">https://heatss.it.luc.edu/HeatLDAP/&lt;/a>.&lt;/p>
+&lt;p>At this time, printing is not supported from the Linux labs in LT 412
+(at Water Tower Campus) and DH 341 (at Lake Shore Campus). In the
+interim, you will need to print from one of the adjacent Windows labs.&lt;/p></description></item><item><title>Docs: Virtual Private Network</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/its-services/vpn/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/its-services/vpn/</guid><description>
+&lt;p>There are a number of services (read: ports) that are firewalled because
+they&amp;rsquo;re not secure or under persistent threats from the outside.
+The university VPN allows you to access these services.&lt;/p>
+&lt;p>There is a self-service portal via ITS at &lt;a href="https://luc.saasit.com/">https://luc.saasit.com/&lt;/a>.&lt;/p>
+&lt;p>We recommend that all students working on advanced projects to get access to the VPN so they will run into few(er) surprises.&lt;/p></description></item><item><title>Docs: Windows Desktop Support</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/its-services/windows-desktop-support/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/its-services/windows-desktop-support/</guid><description>
+&lt;div class="pageinfo pageinfo-primary">
+&lt;p>Note: As of June 30, 2010, we no longer provide desktop computing
+support in the department.
+These needs are addressed by the ITS desktop
+support group.
+This change does not prevent users from establishing their own standalone desktop setup but we are focusing our efforts on non-commodity needs that are synergistic with advanced teaching/research needs.&lt;/p>
+&lt;/div>
+&lt;h1 id="windows-desktop-support">Windows Desktop Support&lt;/h1>
+&lt;p>Windows desktop matters are handled by ITS.
+If you are experiencing trouble with Windows labs and other ITS issues, please open a support ticket at &lt;a href="https://luc.saasit.com/">https://luc.saasit.com/&lt;/a>.
+Linux and Mac desktop matters are the responsibility of individual faculty.&lt;/p></description></item><item><title>Docs: Windows Labs</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/its-services/windows-labs/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/its-services/windows-labs/</guid><description>
+&lt;div class="pageinfo pageinfo-primary">
+&lt;/div>
+&lt;h1 id="windows-labs">Windows Labs&lt;/h1>
+&lt;p>With our partner, Loyola Information Technology Services (ITS), we
+ensure that CS and Math/Stats software needs are formally requested from
+ITS. This allows us to focus on advanced computing needs (in particular,
+Linux and server-side applications) and ensure ubiquitous access to
+Windows labs via the Loyola login ID.&lt;/p>
+&lt;p>Faculty may request additional software by visiting
+&lt;a href="http://www.luc.edu/its/resources/technologypurchases/hardwaresoftwarereviewprocess/">ITS&lt;/a>,
+or by sending an e-mail to the &lt;em>windows&lt;/em> alias (see
+&lt;code>getting-help&lt;/code>{.interpreted-text role=&amp;ldquo;doc&amp;rdquo;}). In the latter case, the
+lab manager (Miao Ye) will fill in a software request on your behalf.
+You are encouraged to submit requests one month before the end of the
+current term, if you need the software in the summer or following term.
+For example, if you need software in Fall 2009, consider getting your
+request in by April of 2008 (one month before the Spring 2008 term
+ends). You should also indicate in your request whether you are willing
+to help test the software after it becomes available. We cannot be held
+responsible for late requests or requests that do not have a designated
+faculty member interested in testing.&lt;/p>
+&lt;p>Again, because the Windows hardware and software are now maintained by
+ITS, we ask that all issues you encounter be reported, no matter how
+trivial. If you discover broken hardware and/or software, use the &lt;a href="http://www.luc.edu/helpdesk/">ITS
+Help Desk&lt;/a>.&lt;/p></description></item><item><title>Docs: Wireless</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/its-services/wireless/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/its-services/wireless/</guid><description>
+&lt;div class="pageinfo pageinfo-primary">
+&lt;p>We can also add some discussion of the nuances here.&lt;/p>
+&lt;/div>
+&lt;h2 id="wireless-access">Wireless Access&lt;/h2>
+&lt;p>IEEE 802.11a and IEEE 802.11b/g wireless access is provided by ITS
+throughout the campus. See &lt;a href="http://www.luc.edu/its/wireless.shtml">http://www.luc.edu/its/wireless.shtml&lt;/a> for
+additional details.&lt;/p>
+&lt;h2 id="eduroam">Eduroam&lt;/h2>
+&lt;p>Visitors to the department can join the Eduroam network.&lt;/p></description></item></channel></rss>
