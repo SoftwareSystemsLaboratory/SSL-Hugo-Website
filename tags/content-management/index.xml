@@ -1,11 +1,12 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Systems Docs – content management</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/tags/content-management/</link><description>Recent content in content management on Systems Docs</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Sat, 25 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://loyolachicagobooks.github.io/systems-handbook-hugo/tags/content-management/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Content Management</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/department-services/content-management-and-hosting/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/department-services/content-management-and-hosting/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Loyola CS Systems Guide – content management</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/tags/content-management/</link><description>Recent content in content management on Loyola CS Systems Guide</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Sat, 25 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://loyolachicagobooks.github.io/systems-handbook-hugo/tags/content-management/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Content Management</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/department-services/content-management-and-hosting/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/department-services/content-management-and-hosting/</guid><description>
 &lt;div class="pageinfo pageinfo-primary">
 &lt;p>We no longer provide support for static web page serving, PHP, and CGI
 scripting. We realize that this might be an inconvenience to some.&lt;/p>
 &lt;/div>
 &lt;h2 id="temporary-hosting-using-a-vm">Temporary Hosting using a VM&lt;/h2>
 &lt;p>For students doing project work, we can provide temporary virtual machines running on VMWare or Windows Hyper-V.
-These VMs can be configured with a web server that is visible internally to Loyola.&lt;/p>
+These VMs can be configured with a web server that is visible internally to Loyola.
+See &lt;a href="../virtualization/">Virtualization&lt;/a> for additional information.&lt;/p>
 &lt;h2 id="alternatives">Alternatives&lt;/h2>
 &lt;p>We encourage those who need to set up web sites to consider establishing
 web hosting account via one of the many providers out there.&lt;/p>

@@ -1,0 +1,45 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Loyola CS Systems Guide – virtual machines</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/tags/virtual-machines/</link><description>Recent content in virtual machines on Loyola CS Systems Guide</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Sat, 25 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://loyolachicagobooks.github.io/systems-handbook-hugo/tags/virtual-machines/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Virtualization</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/department-services/virtualization/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/department-services/virtualization/</guid><description>
+&lt;p>We are now able to host Xen and Windows Hyper-V virtual servers in the
+department. We can host these with a dedicated public IP address
+(justification is required to obtain one) or private IP addresses which
+would be visible when you connect via the Loyola VPN. Given our present
+resource limitations, we can only provide virtual machines on a limited
+basis, primarily for faculty and student research/outreach projects.
+Please send your requests to the vm alias (see
+&lt;code>getting-help&lt;/code>{.interpreted-text role=&amp;ldquo;doc&amp;rdquo;}) and make sure you include
+the following information:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>name&lt;/strong>: your full name&lt;/li>
+&lt;li>&lt;strong>university e-mail address&lt;/strong>: we will not give virtual machines to
+anyone who is not part of the Loyola community, although we will
+allow same to be used by outsiders, provided there is a Loyola
+contact.&lt;/li>
+&lt;li>&lt;strong>alternate e-mail address&lt;/strong>: where we can find you in case you
+decide not to read your Loyola e-mail (or you're not getting your
+messages!)&lt;/li>
+&lt;li>&lt;strong>duration&lt;/strong>: amount of time in months for your project, or
+permanent (in general, permanent machines will be given only with
+highly sound justification.&lt;/li>
+&lt;li>&lt;strong>RAM&lt;/strong>: required RAM in 256MB increments; large allocations are
+rarely given. We'll prioritize requests that are smaller than
+512MB.&lt;/li>
+&lt;li>&lt;strong>disk space&lt;/strong>: required storage in 10GB increments&lt;/li>
+&lt;li>&lt;strong>desired OS&lt;/strong>: We recommend Ubuntu server edition but can support
+many others. At present, we do not support any OS that requires a
+license key or activation (except Windows on our new Hyper-V racks).&lt;/li>
+&lt;li>&lt;strong>desired hostname&lt;/strong>: may be requested in one cs, math, etl, cslabs
+(a private zone), all of which are subdomains of luc.edu. For
+example, if you want the hostname gkt in the domain etl.luc.edu, you
+would ask for gkt.etl.luc.edu&lt;/li>
+&lt;li>&lt;strong>public or private static IP&lt;/strong>: You must say public or private. We
+will generally be asking you (especially if you're a student) to
+start with a private IP address. This in most cases will require you
+to choose the domain cslabs.luc.edu, which only resolves within
+Loyola proper.&lt;/li>
+&lt;li>&lt;strong>type of virtual machine&lt;/strong>: Xen, VMware, Hyper-V program. You would
+only need VMware if you want to host a Windows VM but we presently
+have no plans to support Windows, per our emphasis on freely
+available OS technology without activation requirements.&lt;/li>
+&lt;li>&lt;strong>number of CPUs&lt;/strong>: we are only able to support 1 for most requests
+at this time.&lt;/li>
+&lt;/ul></description></item></channel></rss>
