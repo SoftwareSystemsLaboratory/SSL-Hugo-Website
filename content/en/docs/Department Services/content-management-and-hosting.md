@@ -18,6 +18,7 @@ scripting. We realize that this might be an inconvenience to some.
 
 For students doing project work, we can provide temporary virtual machines running on VMWare or Windows Hyper-V.
 These VMs can be configured with a web server that is visible internally to Loyola.
+See [Virtualization](../virtualization/) for additional information.
 
 ## Alternatives
 

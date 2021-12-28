@@ -14,5 +14,5 @@ Please direct all inquiries to Miao Ye (<helpdesk@cs.luc.edu>).
 
 ## Microsoft Teams
 
-Please join the **Loyola CS Systems** group on Loyola's Microsoft Teams *effective after Jnaury 1, 2022*.
+Please join the **Loyola CS Systems** group on Loyola's Microsoft Teams *effective after Jnaury 1, 2022*.   
 This is available to Loyola faculty, staff, and students *only*.
