@@ -19,6 +19,12 @@ We are not generally taking advantage of e-mail and other services at
 this time and reserve these address for faculty and researchers
 officially connected to the department. To request a Google Site or
 other service, please see &lt;code>getting-help&lt;/code>{.interpreted-text role=&amp;ldquo;doc&amp;rdquo;}.&lt;/p></description></item><item><title>Docs: Google Workspace</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/how-to/google-apps-cs/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/how-to/google-apps-cs/</guid><description>
+&lt;div class="pageinfo pageinfo-primary">
+&lt;p>The domains we maintain are {cs,etl,ssl}.luc.edu.
+This page needs some updates.&lt;/p>
+&lt;p>We mainly support e-mail, calendaring, groups, sites (but most should use something else), and various services included with these (e.g. chat, etc.)
+Most are probably better off with university e-mail, but we will continue to support these for Google collaboration in the department.&lt;/p>
+&lt;/div>
 &lt;p>The CS and Mathematics departments subscribe to Google Apps for Your
 Domain. Among other things, we can host sites, e-mail, documents,
 calendaring, etc. Our primary use at the moment is for Google Sites,

@@ -1932,6 +1932,10 @@ Progarm.&lt;/p>
 &lt;a href="https://developer.apple.com/programs/ios/university/gettingstarted/">https://developer.apple.com/programs/ios/university/gettingstarted/&lt;/a>.&lt;/p>
 &lt;p>This program requires a bit of special handling, so please contact the
 lab manager at &lt;code>people&lt;/code>{.interpreted-text role=&amp;ldquo;doc&amp;rdquo;} to be enrolled.&lt;/p></description></item><item><title>Docs: Academic Alliances</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/how-to/gpgpu-server/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/how-to/gpgpu-server/</guid><description>
+&lt;div class="pageinfo pageinfo-primary">
+&lt;p>This page needs improvement.&lt;/p>
+&lt;/div>
+&lt;p>The CS and Mathematics departments subscribe to Google Apps for Your&lt;/p>
 &lt;h1 id="gpgpu-server">GPGPU Server&lt;/h1>
 &lt;ol>
 &lt;li>
@@ -1961,7 +1965,10 @@ for additional details.&lt;/p>
 &lt;/li>
 &lt;/ol></description></item><item><title>Docs: Command Line Basics</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/how-to/linux-primer/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/how-to/linux-primer/</guid><description>
 &lt;h2 id="getting-started">Getting Started&lt;/h2>
-&lt;p>&lt;strong>Note: All computer science majors and interdisciplinary majors now take COMP 141, which teaches you about the command line and fundamentals of Unix/Linux. This is primarily aimed at those who have not taken COMP 141.&lt;/strong>&lt;/p>
+&lt;div class="pageinfo pageinfo-primary">
+&lt;p>All computer science majors and interdisciplinary majors now take COMP 141, which teaches you about the command line and fundamentals of Unix/Linux.
+This is primarily aimed at those who have not taken COMP 141, which should become a small number after 2022.&lt;/p>
+&lt;/div>
 &lt;p>There are many tutorials on the web, just Google around and you will
 find them. A decent online tutorial is available for example at
 &lt;a href="http://www.linux.org/lessons/beginner/toc.html">Linux.org&lt;/a> one can also
@@ -2331,6 +2338,10 @@ This is a warning with a title.
 &lt;p>Stumptown PBR&amp;amp;B keytar plaid street art, forage XOXO pitchfork selvage affogato green juice listicle pickled everyday carry hashtag. Organic sustainable letterpress sartorial scenester intelligentsia swag bushwick. Put a bird on it stumptown neutra locavore. IPhone typewriter messenger bag narwhal. Ennui cold-pressed seitan flannel keytar, single-origin coffee adaptogen occupy yuccie williamsburg chillwave shoreditch forage waistcoat.&lt;/p>
 &lt;pre>&lt;code>This is the final element on the page and there should be no margin below this.
 &lt;/code>&lt;/pre></description></item><item><title>Docs: Getting Help</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/how-to/getting-help/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/how-to/getting-help/</guid><description>
+&lt;div class="pageinfo pageinfo-primary">
+&lt;p>Note: We will establish a Loyola CS Systems Team so faculty, students, and staff can reach out to use for help.
+We should probably drop the e-mail support soon.&lt;/p>
+&lt;/div>
 &lt;h2 id="e-mail">E-mail&lt;/h2>
 &lt;p>Please direct all inquiries to Miao Ye (&lt;a href="mailto:helpdesk@cs.luc.edu">helpdesk@cs.luc.edu&lt;/a>).&lt;/p>
 &lt;h2 id="microsoft-teams">Microsoft Teams&lt;/h2>
@@ -2356,6 +2367,12 @@ We are not generally taking advantage of e-mail and other services at
 this time and reserve these address for faculty and researchers
 officially connected to the department. To request a Google Site or
 other service, please see &lt;code>getting-help&lt;/code>{.interpreted-text role=&amp;ldquo;doc&amp;rdquo;}.&lt;/p></description></item><item><title>Docs: Google Workspace</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/how-to/google-apps-cs/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/how-to/google-apps-cs/</guid><description>
+&lt;div class="pageinfo pageinfo-primary">
+&lt;p>The domains we maintain are {cs,etl,ssl}.luc.edu.
+This page needs some updates.&lt;/p>
+&lt;p>We mainly support e-mail, calendaring, groups, sites (but most should use something else), and various services included with these (e.g. chat, etc.)
+Most are probably better off with university e-mail, but we will continue to support these for Google collaboration in the department.&lt;/p>
+&lt;/div>
 &lt;p>The CS and Mathematics departments subscribe to Google Apps for Your
 Domain. Among other things, we can host sites, e-mail, documents,
 calendaring, etc. Our primary use at the moment is for Google Sites,

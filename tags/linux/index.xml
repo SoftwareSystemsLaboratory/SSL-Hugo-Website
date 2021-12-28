@@ -1,6 +1,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Systems Docs – Linux</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/tags/linux/</link><description>Recent content in Linux on Systems Docs</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://loyolachicagobooks.github.io/systems-handbook-hugo/tags/linux/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Command Line Basics</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/how-to/linux-primer/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/how-to/linux-primer/</guid><description>
 &lt;h2 id="getting-started">Getting Started&lt;/h2>
-&lt;p>&lt;strong>Note: All computer science majors and interdisciplinary majors now take COMP 141, which teaches you about the command line and fundamentals of Unix/Linux. This is primarily aimed at those who have not taken COMP 141.&lt;/strong>&lt;/p>
+&lt;div class="pageinfo pageinfo-primary">
+&lt;p>All computer science majors and interdisciplinary majors now take COMP 141, which teaches you about the command line and fundamentals of Unix/Linux.
+This is primarily aimed at those who have not taken COMP 141, which should become a small number after 2022.&lt;/p>
+&lt;/div>
 &lt;p>There are many tutorials on the web, just Google around and you will
 find them. A decent online tutorial is available for example at
 &lt;a href="http://www.linux.org/lessons/beginner/toc.html">Linux.org&lt;/a> one can also
