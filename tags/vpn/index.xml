@@ -1,0 +1,42 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Systems Docs – VPN</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/tags/vpn/</link><description>Recent content in VPN on Systems Docs</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://loyolachicagobooks.github.io/systems-handbook-hugo/tags/vpn/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Remote Access</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/how-to/remoteaccess/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/how-to/remoteaccess/</guid><description>
+&lt;p>All users of our systems can access their files remotely; however, we
+currently do not provide general support to students or faculty for
+Samba and CIFS shares (i.e. mounting as a Windows drive) owing largely
+to security and usability considerations. (There is a legacy Samba
+setup; however, no support is provided.) There are a number of
+alternatives to Windows shares that we do support and consider effective
+for most needs.&lt;/p>
+&lt;h2 id="sshfs">sshfs&lt;/h2>
+&lt;p>If you are a Linux or Mac user, you can use the Secure Shell Filesystem
+client, which makes use of the Fuse project. Linux users can simply
+install the sshfs package (e.g., on Ubuntu: &lt;code>apt-get install sshfs&lt;/code>).
+The Dokan project on Windows provides the same capabilities as sshfs on
+Linux and the Mac.&lt;/p>
+&lt;h2 id="secure-ftp-sftp">Secure FTP (sftp)&lt;/h2>
+&lt;p>Most Secure Shell clients have the ability to upload/download files. If
+you are looking for something that is less transparent than a typical
+filesystem and can live with an upload/download model, this might be all
+you need (and seemingly, is what most of our users want).&lt;/p>
+&lt;h2 id="version-control-systems">Version Control Systems&lt;/h2>
+&lt;p>We recommend that all of our students learn how to use the Concurrent
+Versioning System (CVS) or Subversion, especially for programming
+classes. Source code management is available through command-line tools
+or nicely integrated into many development environments, such as Eclipse
+and NetBeans (even Visual Studio supports Subversion through the AnkhSVN
+add-in). The TortoiseSVN and TortoiseHg clients for Windows are
+particularly nice!&lt;/p>
+&lt;h2 id="gnome-and-kde">Gnome and KDE&lt;/h2>
+&lt;p>If you are an Ubuntu desktop user at home, both of these UIs allow you
+to connect to a remote place via SSH and browse folders as part of the
+UI's shell (that is, you don't need to go to the dreaded terminal). In
+Gnome, Places -&amp;gt; Connect to Server will allow a user to connect to a
+ssh server and will then treat that connection to your home directory
+like a mounted drive.&lt;/p>
+&lt;h2 id="putty-and-cygwin">PuTTY and Cygwin&lt;/h2>
+&lt;p>Speaking of SSH access, Windows users are encouraged to use the PuTTY or
+Cygwin support for SSH. There are a number of good commercial solutions
+but these cost big money (between $75-$100) and are not likely to be
+cost effective (let alone necessary) for most members of our community.&lt;/p>
+&lt;h2 id="unison">Unison&lt;/h2>
+&lt;p>Unison is an excellent 2-way file synchronization tool. It supports all
+platforms.&lt;/p></description></item></channel></rss>
