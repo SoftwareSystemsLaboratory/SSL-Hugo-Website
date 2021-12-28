@@ -9,7 +9,12 @@ description: >
 
 ## Getting Started
 
-**Note: All computer science majors and interdisciplinary majors now take COMP 141, which teaches you about the command line and fundamentals of Unix/Linux. This is primarily aimed at those who have not taken COMP 141.**
+{{% pageinfo %}}
+
+All computer science majors and interdisciplinary majors now take COMP 141, which teaches you about the command line and fundamentals of Unix/Linux.
+This is primarily aimed at those who have not taken COMP 141, which should become a small number after 2022.
+
+{{% /pageinfo %}}
 
 There are many tutorials on the web, just Google around and you will
 find them. A decent online tutorial is available for example at

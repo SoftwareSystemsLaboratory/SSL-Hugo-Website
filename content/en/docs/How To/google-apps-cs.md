@@ -7,6 +7,15 @@ description: >
   Google Workspace info
 ---
 
+{{% pageinfo %}}
+
+The domains we maintain are {cs,etl,ssl}.luc.edu.
+This page needs some updates.
+
+We mainly support e-mail, calendaring, groups, sites (but most should use something else), and various services included with these (e.g. chat, etc.)
+Most are probably better off with university e-mail, but we will continue to support these for Google collaboration in the department.
+{{% /pageinfo %}}
+
 The CS and Mathematics departments subscribe to Google Apps for Your
 Domain. Among other things, we can host sites, e-mail, documents,
 calendaring, etc. Our primary use at the moment is for Google Sites,
