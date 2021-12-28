@@ -1,7 +1,7 @@
 ---
 title: "Department Services"
 linktitle: "Department Services"
-weight: 4
+weight: 2
 description: >
   A guide to services offered by the CS department? 
 ---
