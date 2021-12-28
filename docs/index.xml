@@ -542,7 +542,130 @@ web hosting account via one of the many providers out there.&lt;/p>
 &lt;p>We actually use dedicated virtual machines for some department hosting needs. A particularly nice option is &lt;a href="https://linode.com">Linode&lt;/a>. For as little as $5-$10 a month, you can get a dedicated virtual machine with any Linux distribution you like.&lt;/p>
 &lt;p>This option is primarily for more technical users who know Unix/Linux system administration (and commands).&lt;/p>
 &lt;h3 id="google-apps">Google Apps&lt;/h3>
-&lt;p>We do have Google Apps available in the department, which includes Blogger and Google Sites. While both of these options are starting to look/feel a bit dated, they nevertheless are easy to use and require virtually no configuration (except for us to enable your site).&lt;/p></description></item><item><title>Docs: Printing</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/its-services/printing/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/its-services/printing/</guid><description>
+&lt;p>We do have Google Apps available in the department, which includes Blogger and Google Sites. While both of these options are starting to look/feel a bit dated, they nevertheless are easy to use and require virtually no configuration (except for us to enable your site).&lt;/p></description></item><item><title>Docs: Facilities</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/department-services/facilities/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/department-services/facilities/</guid><description>
+&lt;h2 id="general-computing-labs">General Computing Labs&lt;/h2>
+&lt;p>The department has general computer laboratories at the Lake Shore and
+Water Tower Campuses. They are three windows labs and one free/open
+source laboratory (at Water Tower Campus only) running Ubuntu Linux. The
+Windows labs are managed by Information Technology Services (ITS) with
+software requests submitted regularly by the department.&lt;/p>
+&lt;p>::: index
+pair: research; Internet-2
+:::&lt;/p>
+&lt;h2 id="internet-2">Internet-2&lt;/h2>
+&lt;p>The CS Department was part of a successful team that received funding to
+bring Internet-2 to Loyola University Chicago as a whole. This
+next-generation Internet allows students within the department to
+explore ideas such as cluster computing, grid computing, Internet
+telephony, and distributed scientific application development. In
+addition to Internet-2, the university maintains a high-speed optical
+network/ring that connects all of the Loyola campuses (LSC, WTC, and
+Loyola University Medical Center).&lt;/p>
+&lt;p>::: index
+pair: research; Windows HPC Cluster
+:::&lt;/p>
+&lt;h2 id="windows-hpc-cluster">Windows HPC Cluster&lt;/h2>
+&lt;p>Drs. Putonti and Thiruvathukal operate two Windows HPC clusters: an
+80-node dual-core Opteron cluster by Rackable Systems and a 24-node
+dual-core Xeon cluster by Dell. Both clusters feature high-speed
+Ethernet and/or Infiniband. These clusters are housed in the ITS data
+center.&lt;/p>
+&lt;p>::: index
+pair: research; GPGPU pair: Emerging Technologies Laboratory; GPGPU
+:::&lt;/p>
+&lt;h2 id="gpgpu-server">GPGPU Server&lt;/h2>
+&lt;p>Our new GPGPU Server was set up at our ETL. It is SuperServer
+7046GT-TRF-TC4 with 2 x Intel Xeon Quad-Core (16 logical processors),
+96GB RAM, 4 x NVIDIA® Tesla C2075 GPUs. Please read our
+&lt;code>gpgpu-server&lt;/code>{.interpreted-text role=&amp;ldquo;doc&amp;rdquo;} guide on how to get
+started.&lt;/p>
+&lt;p>::: index
+single: Emerging Technologies Laboratory
+:::&lt;/p>
+&lt;h2 id="emerging-technologies-laboratory">Emerging Technologies Laboratory&lt;/h2>
+&lt;p>The &lt;a href="http://www.etl.luc.edu">ETL&lt;/a> is a growing presence for experimental
+computer science and engineering projects. This laboratory supports many
+experimental computing needs and is a place where students can explore
+ideas not covered directly in any particular class. Virtualization,
+embedded systems, green computing, and mobile development take place
+here.&lt;/p>
+&lt;p>::: index
+single: wireless
+:::&lt;/p>
+&lt;h2 id="wireless">Wireless&lt;/h2>
+&lt;p>The entire department (faculty offices, computer labs, emerging
+technologies lab, and halls) are covered by 802.11g Wireless LAN.&lt;/p>
+&lt;h2 id="research-data-center">Research Data Center&lt;/h2>
+&lt;p>Loyola University Chicago&amp;rsquo;s Research Data Center (RDC) is a
+1,000-square-foot facility dedicated to support research and funded
+grants projects, provides a secure home for the computational clusters
+and related equipment used by our research community.&lt;/p>
+&lt;p>The RDC (opened in 2010) delivers a high availability computing
+environment for research projects. This facility is equipped with power
+protection, including an uninterruptible power supply and a back-up
+generator. Multiple computer room air conditioner (CRAC) units provide
+redundant cooling for the space, and a structured cabling design allows
+for high-speed network connectivity. In addition to fire protection,
+additional safety and security elements for the RDC include keycard
+access, camera surveillance, and environmental monitoring.&lt;/p>
+&lt;p>Sized to accommodate moderate growth, several research initiatives are
+currently taking advan- tage of the space, which at present houses three
+research clusters and over 100 nodes. Additionally, collaborative
+research efforts with other participating institutions and/or
+organizations have full access and connectivity to Internet2 via the
+Metropolitan Research &amp;amp; Education Network (MREN) to accommodate high
+bandwidth applications, data transmissions, and computational require-
+ments.&lt;/p>
+&lt;p>A steering committee, made up of senior administrators, faculty, and ITS
+professionals, is re- sponsible for reviewing, evaluating, and
+recommending strategies, plans, and policies governing the use of the
+RDC resources. Loyola&amp;rsquo;s RDC is managed by Information Technology
+Services (ITS) in partnership with the university&amp;rsquo;s Facilities
+Department.&lt;/p>
+&lt;p>Drs. Thiruvathukal, Läufer, and Putonti have a general-purpose 80-node
+computing cluster that runs a mix of Windows HPC Server and the ROCKS
+clustering software.&lt;/p></description></item><item><title>Docs: People</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/department-services/people/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/department-services/people/</guid><description>
+&lt;div class="pageinfo pageinfo-primary">
+&lt;p>Needs updates.&lt;/p>
+&lt;/div>
+&lt;p>We pride ourselves in paying attention to human interaction. While the
+support aliases described in the previous section must be used whenever
+you want something to be done, you may want to know something about the
+major roles in our department that are applicable to computing.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Chairperson&lt;/strong>: &lt;a href="http://laufer.cs.luc.edu">Konstantin Läufer&lt;/a>.
+Please contact the Chairperson with any suggestions you have for
+improvement, especially when itcomes to computing matters. The
+chairperson has the ultimate reponsibility for all department
+matters, especially the departmental computing budget.&lt;/li>
+&lt;li>&lt;strong>Computing Director&lt;/strong>: &lt;a href="http://thiruvathukal.com">George K.
+Thiruvathukal&lt;/a>. Pleasecontact the
+Computing Director with any suggestions you have for improvement or
+with technical support questions. The Computing Director is
+ultimatelyresponsible for the implementation of all computing
+initiatives for the department, in particular those that support our
+teaching and research missions.&lt;/li>
+&lt;li>&lt;strong>Lab Manager&lt;/strong>: &lt;a href="http://www.luc.edu/cs/people/staff/yemiao.shtml">Miao
+Ye&lt;/a>. The Lab
+Manager is ultimately responsible for the implementation of the
+intiaitives as defined by the Computing Director (who consults with
+the Chairperson). Because there is onlyone Lab Manager at the
+moment, it is important to recognize that he/she works to support
+all requests in a timely manner but may not be ableto resolve your
+problem immediately. Please allow 24-48 hours for a response to any
+non-emergency need.&lt;/li>
+&lt;li>&lt;strong>Computing Committee&lt;/strong>: &lt;a href="http://thiruvathukal.com">George K.
+Thiruvathukal&lt;/a> (Computing Director and
+Committee Chair), &lt;a href="http://laufer.cs.luc.edu">Konstantin Läufer&lt;/a>,
+Prof. Stephen Doty, and two new members to be determined (one more
+faculty and one more student member). The Compting Committee meets
+at least twice per academic year and drafts recommendations and
+resolutions for future computing initiatives that support the
+department's teaching and researchmission and those of
+collaborating departments. The commitee's proceedings are reported
+to the Chairperson.&lt;/li>
+&lt;/ul>
+&lt;p>In most cases, you should contact the &lt;strong>Lab Manager&lt;/strong>&lt;/p></description></item><item><title>Docs: Printing</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/its-services/printing/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/its-services/printing/</guid><description>
 &lt;div class="pageinfo pageinfo-primary">
 &lt;p>This page needs some updates.&lt;/p>
 &lt;/div>
@@ -561,7 +684,24 @@ As with anything else in the Windows Labs, please report printing
 problems directly to ITS at &lt;a href="https://heatss.it.luc.edu/HeatLDAP/">https://heatss.it.luc.edu/HeatLDAP/&lt;/a>.&lt;/p>
 &lt;p>At this time, printing is not supported from the Linux labs in LT 412
 (at Water Tower Campus) and DH 341 (at Lake Shore Campus). In the
-interim, you will need to print from one of the adjacent Windows labs.&lt;/p></description></item><item><title>Docs: Virtualization</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/department-services/virtualization/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/department-services/virtualization/</guid><description>
+interim, you will need to print from one of the adjacent Windows labs.&lt;/p></description></item><item><title>Docs: User Accounts</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/department-services/user-accounts/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/department-services/user-accounts/</guid><description>
+&lt;p>All students and faculty are given accounts in the CS department. Your
+account is intended for your use only. Please change your intial
+password immediately on first use to improve security. (We are able to
+determine when a password has not been changed from the default and will
+lock accounts after a certain period.)&lt;/p>
+&lt;p>We presently lack a self-service mechanism to the PAM service maintained
+by ITS for resetting your password. In any event, given the manageable
+number of users, you can send a request to the accounts alias to have
+your password reset for you. Since we set up all of our accounts to
+match your university login ID, it is our policy to send your
+replacement password to your Loyola e-mail address. You may also opt to
+meet the lab manager in person but must show your Loyola or a
+government-issued id with your photo on it.&lt;/p>
+&lt;p>To reset your password, you should log into &lt;code>random.cs.luc.edu&lt;/code> using a
+secure shell client (a.k.a. SSH) and use the passwd program to reset it.
+We recommend that you are on campus when you need to change your
+password.&lt;/p></description></item><item><title>Docs: Virtualization</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/department-services/virtualization/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/department-services/virtualization/</guid><description>
 &lt;p>We are now able to host Xen and Windows Hyper-V virtual servers in the
 department. We can host these with a dedicated public IP address
 (justification is required to obtain one) or private IP addresses which

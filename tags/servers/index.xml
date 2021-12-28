@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Loyola CS Systems Guide – labs</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/tags/labs/</link><description>Recent content in labs on Loyola CS Systems Guide</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Sat, 25 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://loyolachicagobooks.github.io/systems-handbook-hugo/tags/labs/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Facilities</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/department-services/facilities/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/department-services/facilities/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Loyola CS Systems Guide – servers</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/tags/servers/</link><description>Recent content in servers on Loyola CS Systems Guide</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Sat, 25 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://loyolachicagobooks.github.io/systems-handbook-hugo/tags/servers/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Facilities</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/department-services/facilities/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/department-services/facilities/</guid><description>
 &lt;h2 id="general-computing-labs">General Computing Labs&lt;/h2>
 &lt;p>The department has general computer laboratories at the Lake Shore and
 Water Tower Campuses. They are three windows labs and one free/open
@@ -80,29 +80,4 @@ Services (ITS) in partnership with the university&amp;rsquo;s Facilities
 Department.&lt;/p>
 &lt;p>Drs. Thiruvathukal, Läufer, and Putonti have a general-purpose 80-node
 computing cluster that runs a mix of Windows HPC Server and the ROCKS
-clustering software.&lt;/p></description></item><item><title>Docs: Windows Labs</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/its-services/windows-labs/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/its-services/windows-labs/</guid><description>
-&lt;div class="pageinfo pageinfo-primary">
-&lt;/div>
-&lt;h1 id="windows-labs">Windows Labs&lt;/h1>
-&lt;p>With our partner, Loyola Information Technology Services (ITS), we
-ensure that CS and Math/Stats software needs are formally requested from
-ITS. This allows us to focus on advanced computing needs (in particular,
-Linux and server-side applications) and ensure ubiquitous access to
-Windows labs via the Loyola login ID.&lt;/p>
-&lt;p>Faculty may request additional software by visiting
-&lt;a href="http://www.luc.edu/its/resources/technologypurchases/hardwaresoftwarereviewprocess/">ITS&lt;/a>,
-or by sending an e-mail to the &lt;em>windows&lt;/em> alias (see
-&lt;code>getting-help&lt;/code>{.interpreted-text role=&amp;ldquo;doc&amp;rdquo;}). In the latter case, the
-lab manager (Miao Ye) will fill in a software request on your behalf.
-You are encouraged to submit requests one month before the end of the
-current term, if you need the software in the summer or following term.
-For example, if you need software in Fall 2009, consider getting your
-request in by April of 2008 (one month before the Spring 2008 term
-ends). You should also indicate in your request whether you are willing
-to help test the software after it becomes available. We cannot be held
-responsible for late requests or requests that do not have a designated
-faculty member interested in testing.&lt;/p>
-&lt;p>Again, because the Windows hardware and software are now maintained by
-ITS, we ask that all issues you encounter be reported, no matter how
-trivial. If you discover broken hardware and/or software, use the &lt;a href="http://www.luc.edu/helpdesk/">ITS
-Help Desk&lt;/a>.&lt;/p></description></item></channel></rss>
+clustering software.&lt;/p></description></item></channel></rss>
