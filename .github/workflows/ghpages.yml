@@ -32,6 +32,7 @@ jobs:
           sudo npm install -D postcss
           sudo npm install postcss@latest autoprefixer@latest
           hugo --minify
+          echo systemshandbook.cs.luc.edu > ./public/CNAME
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3

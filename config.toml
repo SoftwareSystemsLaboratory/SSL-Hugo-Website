@@ -1,4 +1,5 @@
-baseURL = "https://loyolachicagobooks.github.io/systems-handbook-hugo/"
+#baseURL = "https://loyolachicagobooks.github.io/systems-handbook-hugo/"
+baseURL = "https://systemshandbook.cs.luc.edu/"
 title = "Loyola CS Systems Guide"
 publishDir = "public"
 
