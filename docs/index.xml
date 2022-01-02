@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Loyola CS Systems Guide – Documentation</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/</link><description>Recent content in Documentation on Loyola CS Systems Guide</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Multi-Bear Domicile Setup</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/tutorials/multi-bear/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/tutorials/multi-bear/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Loyola CS Systems Guide – Documentation</title><link>https://systemshandbook.cs.luc.edu/docs/</link><description>Recent content in Documentation on Loyola CS Systems Guide</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://systemshandbook.cs.luc.edu/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Multi-Bear Domicile Setup</title><link>https://systemshandbook.cs.luc.edu/docs/tutorials/multi-bear/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://systemshandbook.cs.luc.edu/docs/tutorials/multi-bear/</guid><description>
 &lt;div class="pageinfo pageinfo-primary">
 &lt;p>This is a placeholder page. Replace it with your own content.&lt;/p>
 &lt;/div>
@@ -261,7 +261,7 @@ This is a warning with a title.
 &lt;h3 id="external-links">External Links&lt;/h3>
 &lt;p>Stumptown PBR&amp;amp;B keytar plaid street art, forage XOXO pitchfork selvage affogato green juice listicle pickled everyday carry hashtag. Organic sustainable letterpress sartorial scenester intelligentsia swag bushwick. Put a bird on it stumptown neutra locavore. IPhone typewriter messenger bag narwhal. Ennui cold-pressed seitan flannel keytar, single-origin coffee adaptogen occupy yuccie williamsburg chillwave shoreditch forage waistcoat.&lt;/p>
 &lt;pre>&lt;code>This is the final element on the page and there should be no margin below this.
-&lt;/code>&lt;/pre></description></item><item><title>Docs: Another Tutorial</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/tutorials/tutorial2/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/tutorials/tutorial2/</guid><description>
+&lt;/code>&lt;/pre></description></item><item><title>Docs: Another Tutorial</title><link>https://systemshandbook.cs.luc.edu/docs/tutorials/tutorial2/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://systemshandbook.cs.luc.edu/docs/tutorials/tutorial2/</guid><description>
 &lt;div class="pageinfo pageinfo-primary">
 &lt;p>This is a placeholder page. Replace it with your own content.&lt;/p>
 &lt;/div>
@@ -524,7 +524,7 @@ This is a warning with a title.
 &lt;h3 id="external-links">External Links&lt;/h3>
 &lt;p>Stumptown PBR&amp;amp;B keytar plaid street art, forage XOXO pitchfork selvage affogato green juice listicle pickled everyday carry hashtag. Organic sustainable letterpress sartorial scenester intelligentsia swag bushwick. Put a bird on it stumptown neutra locavore. IPhone typewriter messenger bag narwhal. Ennui cold-pressed seitan flannel keytar, single-origin coffee adaptogen occupy yuccie williamsburg chillwave shoreditch forage waistcoat.&lt;/p>
 &lt;pre>&lt;code>This is the final element on the page and there should be no margin below this.
-&lt;/code>&lt;/pre></description></item><item><title>Docs: Content Management</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/department-services/content-management-and-hosting/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/department-services/content-management-and-hosting/</guid><description>
+&lt;/code>&lt;/pre></description></item><item><title>Docs: Content Management</title><link>https://systemshandbook.cs.luc.edu/docs/department-services/content-management-and-hosting/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>https://systemshandbook.cs.luc.edu/docs/department-services/content-management-and-hosting/</guid><description>
 &lt;div class="pageinfo pageinfo-primary">
 &lt;p>We no longer provide support for static web page serving, PHP, and CGI
 scripting. We realize that this might be an inconvenience to some.&lt;/p>
@@ -542,7 +542,7 @@ web hosting account via one of the many providers out there.&lt;/p>
 &lt;p>We actually use dedicated virtual machines for some department hosting needs. A particularly nice option is &lt;a href="https://linode.com">Linode&lt;/a>. For as little as $5-$10 a month, you can get a dedicated virtual machine with any Linux distribution you like.&lt;/p>
 &lt;p>This option is primarily for more technical users who know Unix/Linux system administration (and commands).&lt;/p>
 &lt;h3 id="google-apps">Google Apps&lt;/h3>
-&lt;p>We do have Google Apps available in the department, which includes Blogger and Google Sites. While both of these options are starting to look/feel a bit dated, they nevertheless are easy to use and require virtually no configuration (except for us to enable your site).&lt;/p></description></item><item><title>Docs: Facilities</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/department-services/facilities/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/department-services/facilities/</guid><description>
+&lt;p>We do have Google Apps available in the department, which includes Blogger and Google Sites. While both of these options are starting to look/feel a bit dated, they nevertheless are easy to use and require virtually no configuration (except for us to enable your site).&lt;/p></description></item><item><title>Docs: Facilities</title><link>https://systemshandbook.cs.luc.edu/docs/department-services/facilities/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>https://systemshandbook.cs.luc.edu/docs/department-services/facilities/</guid><description>
 &lt;h2 id="general-computing-labs">General Computing Labs&lt;/h2>
 &lt;p>The department has general computer laboratories at the Lake Shore and
 Water Tower Campuses. They are three windows labs and one free/open
@@ -624,7 +624,7 @@ Services (ITS) in partnership with the university&amp;rsquo;s Facilities
 Department.&lt;/p>
 &lt;p>Drs. Thiruvathukal, Läufer, and Putonti have a general-purpose 80-node
 computing cluster that runs a mix of Windows HPC Server and the ROCKS
-clustering software.&lt;/p></description></item><item><title>Docs: People</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/department-services/people/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/department-services/people/</guid><description>
+clustering software.&lt;/p></description></item><item><title>Docs: People</title><link>https://systemshandbook.cs.luc.edu/docs/department-services/people/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>https://systemshandbook.cs.luc.edu/docs/department-services/people/</guid><description>
 &lt;div class="pageinfo pageinfo-primary">
 &lt;p>Needs updates.&lt;/p>
 &lt;/div>
@@ -665,7 +665,7 @@ department's teaching and researchmission and those of
 collaborating departments. The commitee's proceedings are reported
 to the Chairperson.&lt;/li>
 &lt;/ul>
-&lt;p>In most cases, you should contact the &lt;strong>Lab Manager&lt;/strong>&lt;/p></description></item><item><title>Docs: Printing</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/its-services/printing/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/its-services/printing/</guid><description>
+&lt;p>In most cases, you should contact the &lt;strong>Lab Manager&lt;/strong>&lt;/p></description></item><item><title>Docs: Printing</title><link>https://systemshandbook.cs.luc.edu/docs/its-services/printing/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>https://systemshandbook.cs.luc.edu/docs/its-services/printing/</guid><description>
 &lt;div class="pageinfo pageinfo-primary">
 &lt;p>This page needs some updates.&lt;/p>
 &lt;/div>
@@ -684,7 +684,7 @@ As with anything else in the Windows Labs, please report printing
 problems directly to ITS at &lt;a href="https://heatss.it.luc.edu/HeatLDAP/">https://heatss.it.luc.edu/HeatLDAP/&lt;/a>.&lt;/p>
 &lt;p>At this time, printing is not supported from the Linux labs in LT 412
 (at Water Tower Campus) and DH 341 (at Lake Shore Campus). In the
-interim, you will need to print from one of the adjacent Windows labs.&lt;/p></description></item><item><title>Docs: User Accounts</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/department-services/user-accounts/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/department-services/user-accounts/</guid><description>
+interim, you will need to print from one of the adjacent Windows labs.&lt;/p></description></item><item><title>Docs: User Accounts</title><link>https://systemshandbook.cs.luc.edu/docs/department-services/user-accounts/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>https://systemshandbook.cs.luc.edu/docs/department-services/user-accounts/</guid><description>
 &lt;p>All students and faculty are given accounts in the CS department. Your
 account is intended for your use only. Please change your intial
 password immediately on first use to improve security. (We are able to
@@ -701,7 +701,7 @@ government-issued id with your photo on it.&lt;/p>
 &lt;p>To reset your password, you should log into &lt;code>random.cs.luc.edu&lt;/code> using a
 secure shell client (a.k.a. SSH) and use the passwd program to reset it.
 We recommend that you are on campus when you need to change your
-password.&lt;/p></description></item><item><title>Docs: Virtualization</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/department-services/virtualization/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/department-services/virtualization/</guid><description>
+password.&lt;/p></description></item><item><title>Docs: Virtualization</title><link>https://systemshandbook.cs.luc.edu/docs/department-services/virtualization/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>https://systemshandbook.cs.luc.edu/docs/department-services/virtualization/</guid><description>
 &lt;p>We are now able to host Xen and Windows Hyper-V virtual servers in the
 department. We can host these with a dedicated public IP address
 (justification is required to obtain one) or private IP addresses which
@@ -745,12 +745,12 @@ have no plans to support Windows, per our emphasis on freely
 available OS technology without activation requirements.&lt;/li>
 &lt;li>&lt;strong>number of CPUs&lt;/strong>: we are only able to support 1 for most requests
 at this time.&lt;/li>
-&lt;/ul></description></item><item><title>Docs: Virtual Private Network</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/its-services/vpn/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/its-services/vpn/</guid><description>
+&lt;/ul></description></item><item><title>Docs: Virtual Private Network</title><link>https://systemshandbook.cs.luc.edu/docs/its-services/vpn/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>https://systemshandbook.cs.luc.edu/docs/its-services/vpn/</guid><description>
 &lt;p>There are a number of services (read: ports) that are firewalled because
 they&amp;rsquo;re not secure or under persistent threats from the outside.
 The university VPN allows you to access these services.&lt;/p>
 &lt;p>There is a self-service portal via ITS at &lt;a href="https://luc.saasit.com/">https://luc.saasit.com/&lt;/a>.&lt;/p>
-&lt;p>We recommend that all students working on advanced projects to get access to the VPN so they will run into few(er) surprises.&lt;/p></description></item><item><title>Docs: Windows Desktop Support</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/its-services/windows-desktop-support/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/its-services/windows-desktop-support/</guid><description>
+&lt;p>We recommend that all students working on advanced projects to get access to the VPN so they will run into few(er) surprises.&lt;/p></description></item><item><title>Docs: Windows Desktop Support</title><link>https://systemshandbook.cs.luc.edu/docs/its-services/windows-desktop-support/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>https://systemshandbook.cs.luc.edu/docs/its-services/windows-desktop-support/</guid><description>
 &lt;div class="pageinfo pageinfo-primary">
 &lt;p>Note: As of June 30, 2010, we no longer provide desktop computing
 support in the department.
@@ -761,7 +761,7 @@ This change does not prevent users from establishing their own standalone deskto
 &lt;h1 id="windows-desktop-support">Windows Desktop Support&lt;/h1>
 &lt;p>Windows desktop matters are handled by ITS.
 If you are experiencing trouble with Windows labs and other ITS issues, please open a support ticket at &lt;a href="https://luc.saasit.com/">https://luc.saasit.com/&lt;/a>.
-Linux and Mac desktop matters are the responsibility of individual faculty.&lt;/p></description></item><item><title>Docs: Windows Labs</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/its-services/windows-labs/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/its-services/windows-labs/</guid><description>
+Linux and Mac desktop matters are the responsibility of individual faculty.&lt;/p></description></item><item><title>Docs: Windows Labs</title><link>https://systemshandbook.cs.luc.edu/docs/its-services/windows-labs/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>https://systemshandbook.cs.luc.edu/docs/its-services/windows-labs/</guid><description>
 &lt;div class="pageinfo pageinfo-primary">
 &lt;/div>
 &lt;h1 id="windows-labs">Windows Labs&lt;/h1>
@@ -786,7 +786,7 @@ faculty member interested in testing.&lt;/p>
 &lt;p>Again, because the Windows hardware and software are now maintained by
 ITS, we ask that all issues you encounter be reported, no matter how
 trivial. If you discover broken hardware and/or software, use the &lt;a href="http://www.luc.edu/helpdesk/">ITS
-Help Desk&lt;/a>.&lt;/p></description></item><item><title>Docs: Wireless</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/its-services/wireless/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/its-services/wireless/</guid><description>
+Help Desk&lt;/a>.&lt;/p></description></item><item><title>Docs: Wireless</title><link>https://systemshandbook.cs.luc.edu/docs/its-services/wireless/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>https://systemshandbook.cs.luc.edu/docs/its-services/wireless/</guid><description>
 &lt;div class="pageinfo pageinfo-primary">
 &lt;p>We can also add some discussion of the nuances here.&lt;/p>
 &lt;/div>
@@ -795,7 +795,7 @@ Help Desk&lt;/a>.&lt;/p></description></item><item><title>Docs: Wireless</title>
 throughout the campus. See &lt;a href="http://www.luc.edu/its/wireless.shtml">http://www.luc.edu/its/wireless.shtml&lt;/a> for
 additional details.&lt;/p>
 &lt;h2 id="eduroam">Eduroam&lt;/h2>
-&lt;p>Visitors to the department can join the Eduroam network.&lt;/p></description></item><item><title>Docs: Academic Alliances</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/department-services/academic-alliances-programs/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/department-services/academic-alliances-programs/</guid><description>
+&lt;p>Visitors to the department can join the Eduroam network.&lt;/p></description></item><item><title>Docs: Academic Alliances</title><link>https://systemshandbook.cs.luc.edu/docs/department-services/academic-alliances-programs/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://systemshandbook.cs.luc.edu/docs/department-services/academic-alliances-programs/</guid><description>
 &lt;p>The department has active memberships in various academic alliance
 programs:&lt;/p>
 &lt;h2 id="microsoft-developer-network-msdn-aa">Microsoft Developer Network (MSDN AA)&lt;/h2>
@@ -841,7 +841,7 @@ Progarm.&lt;/p>
 &lt;p>Information can be found at
 &lt;a href="https://developer.apple.com/programs/ios/university/gettingstarted/">https://developer.apple.com/programs/ios/university/gettingstarted/&lt;/a>.&lt;/p>
 &lt;p>This program requires a bit of special handling, so please contact the
-lab manager at &lt;code>people&lt;/code>{.interpreted-text role=&amp;ldquo;doc&amp;rdquo;} to be enrolled.&lt;/p></description></item><item><title>Docs: Command Line Basics</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/how-to/linux-primer/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/how-to/linux-primer/</guid><description>
+lab manager at &lt;code>people&lt;/code>{.interpreted-text role=&amp;ldquo;doc&amp;rdquo;} to be enrolled.&lt;/p></description></item><item><title>Docs: Command Line Basics</title><link>https://systemshandbook.cs.luc.edu/docs/how-to/linux-primer/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://systemshandbook.cs.luc.edu/docs/how-to/linux-primer/</guid><description>
 &lt;h2 id="getting-started">Getting Started&lt;/h2>
 &lt;div class="pageinfo pageinfo-primary">
 &lt;p>All computer science majors and interdisciplinary majors now take COMP 141, which teaches you about the command line and fundamentals of Unix/Linux.
@@ -952,7 +952,7 @@ for your hardware, and boot from the CD. This will give you a working
 version of Linux running from the CD (slow) that can be played with. You
 can also choose to install Linux on your hard drive next to the existing
 OS (a dual boot approach) so that you can choose the OS at boot time, or
-choose to install Linux in place of your existing OS.&lt;/p></description></item><item><title>Docs: Durian GPGPU Server</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/department-services/gpgpu-server/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/department-services/gpgpu-server/</guid><description>
+choose to install Linux in place of your existing OS.&lt;/p></description></item><item><title>Docs: Durian GPGPU Server</title><link>https://systemshandbook.cs.luc.edu/docs/department-services/gpgpu-server/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://systemshandbook.cs.luc.edu/docs/department-services/gpgpu-server/</guid><description>
 &lt;div class="pageinfo pageinfo-primary">
 &lt;p>This page needs improvement.&lt;/p>
 &lt;/div>
@@ -984,12 +984,12 @@ devicequery.txt
 &lt;a href="http://developer.download.nvidia.com/compute/cuda/3_2/docs/Getting_Started_Linux.pdf">http://developer.download.nvidia.com/compute/cuda/3_2/docs/Getting_Started_Linux.pdf&lt;/a>
 for additional details.&lt;/p>
 &lt;/li>
-&lt;/ol></description></item><item><title>Docs: Getting Help</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/how-to/getting-help/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/how-to/getting-help/</guid><description>
+&lt;/ol></description></item><item><title>Docs: Getting Help</title><link>https://systemshandbook.cs.luc.edu/docs/how-to/getting-help/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://systemshandbook.cs.luc.edu/docs/how-to/getting-help/</guid><description>
 &lt;h2 id="e-mail">E-mail&lt;/h2>
 &lt;p>Please direct all inquiries to Miao Ye (&lt;a href="mailto:helpdesk@cs.luc.edu">helpdesk@cs.luc.edu&lt;/a>).&lt;/p>
 &lt;h2 id="microsoft-teams">Microsoft Teams&lt;/h2>
 &lt;p>Please join the &lt;strong>Loyola CS Systems&lt;/strong> group on Loyola&amp;rsquo;s Microsoft Teams &lt;em>effective after Jnaury 1, 2022&lt;/em>.&lt;br>
-This is available to Loyola faculty, staff, and students &lt;em>only&lt;/em>.&lt;/p></description></item><item><title>Docs: Google Apps</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/department-services/google-apps-cs/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/department-services/google-apps-cs/</guid><description>
+This is available to Loyola faculty, staff, and students &lt;em>only&lt;/em>.&lt;/p></description></item><item><title>Docs: Google Apps</title><link>https://systemshandbook.cs.luc.edu/docs/department-services/google-apps-cs/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://systemshandbook.cs.luc.edu/docs/department-services/google-apps-cs/</guid><description>
 &lt;p>The CS and Mathematics departments subscribe to Google Apps for Your
 Domain. Among other things, we can host sites, e-mail, documents,
 calendaring, etc. Our primary use at the moment is for Google Sites,
@@ -1009,7 +1009,7 @@ own Google Site that is not connected to LUC or the department proper.
 We are not generally taking advantage of e-mail and other services at
 this time and reserve these address for faculty and researchers
 officially connected to the department. To request a Google Site or
-other service, please see &lt;code>getting-help&lt;/code>{.interpreted-text role=&amp;ldquo;doc&amp;rdquo;}.&lt;/p></description></item><item><title>Docs: Parameter Reference</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/reference/parameter-reference/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/reference/parameter-reference/</guid><description>
+other service, please see &lt;code>getting-help&lt;/code>{.interpreted-text role=&amp;ldquo;doc&amp;rdquo;}.&lt;/p></description></item><item><title>Docs: Parameter Reference</title><link>https://systemshandbook.cs.luc.edu/docs/reference/parameter-reference/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://systemshandbook.cs.luc.edu/docs/reference/parameter-reference/</guid><description>
 &lt;div class="pageinfo pageinfo-primary">
 &lt;p>This is a placeholder page. Replace it with your own content.&lt;/p>
 &lt;/div>
@@ -1261,7 +1261,7 @@ This is a warning.
 This is a warning with a title.
 &lt;/div>
 &lt;/p>
-&lt;h2 id="another-heading">Another Heading&lt;/h2></description></item><item><title>Docs: Remote Access</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/how-to/remoteaccess/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/how-to/remoteaccess/</guid><description>
+&lt;h2 id="another-heading">Another Heading&lt;/h2></description></item><item><title>Docs: Remote Access</title><link>https://systemshandbook.cs.luc.edu/docs/how-to/remoteaccess/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://systemshandbook.cs.luc.edu/docs/how-to/remoteaccess/</guid><description>
 &lt;p>All users of our systems can access their files remotely; however, we
 currently do not provide general support to students or faculty for
 Samba and CIFS shares (i.e. mounting as a Windows drive) owing largely
@@ -1302,7 +1302,7 @@ but these cost big money (between $75-$100) and are not likely to be
 cost effective (let alone necessary) for most members of our community.&lt;/p>
 &lt;h2 id="unison">Unison&lt;/h2>
 &lt;p>Unison is an excellent 2-way file synchronization tool. It supports all
-platforms.&lt;/p></description></item><item><title>Docs: Secure Shell</title><link>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/how-to/ssh/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://loyolachicagobooks.github.io/systems-handbook-hugo/docs/how-to/ssh/</guid><description>
+platforms.&lt;/p></description></item><item><title>Docs: Secure Shell</title><link>https://systemshandbook.cs.luc.edu/docs/how-to/ssh/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://systemshandbook.cs.luc.edu/docs/how-to/ssh/</guid><description>
 &lt;p>Not all computer systems in the department are intended for general use,
 and some are restricted to faculty and staff usage. (And many are
 reserved for testing purposes.) The systems available for general use
