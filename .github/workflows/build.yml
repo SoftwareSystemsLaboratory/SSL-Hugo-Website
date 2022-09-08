@@ -22,9 +22,9 @@ jobs:
           extended: true
 
       - name: Setup Node
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v3
         with:
-          node-version: 'node'
+          node-version: 'latest'
 
       - name: Build with Hugo and add npm modules
         run: |
