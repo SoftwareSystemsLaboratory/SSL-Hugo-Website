@@ -24,7 +24,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v1
         with:
-          node-version: 'latest'
+          node-version: 'node'
 
       - name: Build with Hugo and add npm modules
         run: |
