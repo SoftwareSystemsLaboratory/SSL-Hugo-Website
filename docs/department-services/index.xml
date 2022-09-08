@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Loyola CS Systems Guide – Department Services</title><link>https://systemshandbook.cs.luc.edu/docs/department-services/</link><description>Recent content in Department Services on Loyola CS Systems Guide</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://systemshandbook.cs.luc.edu/docs/department-services/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Content Management</title><link>https://systemshandbook.cs.luc.edu/docs/department-services/content-management-and-hosting/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>https://systemshandbook.cs.luc.edu/docs/department-services/content-management-and-hosting/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Loyola CS Systems Guide – Department Services</title><link>/docs/department-services/</link><description>Recent content in Department Services on Loyola CS Systems Guide</description><generator>Hugo -- gohugo.io</generator><atom:link href="/docs/department-services/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Content Management</title><link>/docs/department-services/content-management-and-hosting/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>/docs/department-services/content-management-and-hosting/</guid><description>
 &lt;div class="pageinfo pageinfo-primary">
 &lt;p>We no longer provide support for static web page serving, PHP, and CGI
 scripting. We realize that this might be an inconvenience to some.&lt;/p>
@@ -16,7 +16,7 @@ web hosting account via one of the many providers out there.&lt;/p>
 &lt;p>We actually use dedicated virtual machines for some department hosting needs. A particularly nice option is &lt;a href="https://linode.com">Linode&lt;/a>. For as little as $5-$10 a month, you can get a dedicated virtual machine with any Linux distribution you like.&lt;/p>
 &lt;p>This option is primarily for more technical users who know Unix/Linux system administration (and commands).&lt;/p>
 &lt;h3 id="google-apps">Google Apps&lt;/h3>
-&lt;p>We do have Google Apps available in the department, which includes Blogger and Google Sites. While both of these options are starting to look/feel a bit dated, they nevertheless are easy to use and require virtually no configuration (except for us to enable your site).&lt;/p></description></item><item><title>Docs: Facilities</title><link>https://systemshandbook.cs.luc.edu/docs/department-services/facilities/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>https://systemshandbook.cs.luc.edu/docs/department-services/facilities/</guid><description>
+&lt;p>We do have Google Apps available in the department, which includes Blogger and Google Sites. While both of these options are starting to look/feel a bit dated, they nevertheless are easy to use and require virtually no configuration (except for us to enable your site).&lt;/p></description></item><item><title>Docs: Facilities</title><link>/docs/department-services/facilities/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>/docs/department-services/facilities/</guid><description>
 &lt;h2 id="general-computing-labs">General Computing Labs&lt;/h2>
 &lt;p>The department has general computer laboratories at the Lake Shore and
 Water Tower Campuses. They are three windows labs and one free/open
@@ -98,7 +98,7 @@ Services (ITS) in partnership with the university&amp;rsquo;s Facilities
 Department.&lt;/p>
 &lt;p>Drs. Thiruvathukal, Läufer, and Putonti have a general-purpose 80-node
 computing cluster that runs a mix of Windows HPC Server and the ROCKS
-clustering software.&lt;/p></description></item><item><title>Docs: People</title><link>https://systemshandbook.cs.luc.edu/docs/department-services/people/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>https://systemshandbook.cs.luc.edu/docs/department-services/people/</guid><description>
+clustering software.&lt;/p></description></item><item><title>Docs: People</title><link>/docs/department-services/people/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>/docs/department-services/people/</guid><description>
 &lt;div class="pageinfo pageinfo-primary">
 &lt;p>Needs updates.&lt;/p>
 &lt;/div>
@@ -139,7 +139,7 @@ department's teaching and researchmission and those of
 collaborating departments. The commitee's proceedings are reported
 to the Chairperson.&lt;/li>
 &lt;/ul>
-&lt;p>In most cases, you should contact the &lt;strong>Lab Manager&lt;/strong>&lt;/p></description></item><item><title>Docs: User Accounts</title><link>https://systemshandbook.cs.luc.edu/docs/department-services/user-accounts/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>https://systemshandbook.cs.luc.edu/docs/department-services/user-accounts/</guid><description>
+&lt;p>In most cases, you should contact the &lt;strong>Lab Manager&lt;/strong>&lt;/p></description></item><item><title>Docs: User Accounts</title><link>/docs/department-services/user-accounts/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>/docs/department-services/user-accounts/</guid><description>
 &lt;p>All students and faculty are given accounts in the CS department. Your
 account is intended for your use only. Please change your intial
 password immediately on first use to improve security. (We are able to
@@ -156,7 +156,7 @@ government-issued id with your photo on it.&lt;/p>
 &lt;p>To reset your password, you should log into &lt;code>random.cs.luc.edu&lt;/code> using a
 secure shell client (a.k.a. SSH) and use the passwd program to reset it.
 We recommend that you are on campus when you need to change your
-password.&lt;/p></description></item><item><title>Docs: Virtualization</title><link>https://systemshandbook.cs.luc.edu/docs/department-services/virtualization/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>https://systemshandbook.cs.luc.edu/docs/department-services/virtualization/</guid><description>
+password.&lt;/p></description></item><item><title>Docs: Virtualization</title><link>/docs/department-services/virtualization/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>/docs/department-services/virtualization/</guid><description>
 &lt;p>We are now able to host Xen and Windows Hyper-V virtual servers in the
 department. We can host these with a dedicated public IP address
 (justification is required to obtain one) or private IP addresses which
@@ -200,7 +200,7 @@ have no plans to support Windows, per our emphasis on freely
 available OS technology without activation requirements.&lt;/li>
 &lt;li>&lt;strong>number of CPUs&lt;/strong>: we are only able to support 1 for most requests
 at this time.&lt;/li>
-&lt;/ul></description></item><item><title>Docs: Academic Alliances</title><link>https://systemshandbook.cs.luc.edu/docs/department-services/academic-alliances-programs/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://systemshandbook.cs.luc.edu/docs/department-services/academic-alliances-programs/</guid><description>
+&lt;/ul></description></item><item><title>Docs: Academic Alliances</title><link>/docs/department-services/academic-alliances-programs/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>/docs/department-services/academic-alliances-programs/</guid><description>
 &lt;p>The department has active memberships in various academic alliance
 programs:&lt;/p>
 &lt;h2 id="microsoft-developer-network-msdn-aa">Microsoft Developer Network (MSDN AA)&lt;/h2>
@@ -246,7 +246,7 @@ Progarm.&lt;/p>
 &lt;p>Information can be found at
 &lt;a href="https://developer.apple.com/programs/ios/university/gettingstarted/">https://developer.apple.com/programs/ios/university/gettingstarted/&lt;/a>.&lt;/p>
 &lt;p>This program requires a bit of special handling, so please contact the
-lab manager at &lt;code>people&lt;/code>{.interpreted-text role=&amp;ldquo;doc&amp;rdquo;} to be enrolled.&lt;/p></description></item><item><title>Docs: Durian GPGPU Server</title><link>https://systemshandbook.cs.luc.edu/docs/department-services/gpgpu-server/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://systemshandbook.cs.luc.edu/docs/department-services/gpgpu-server/</guid><description>
+lab manager at &lt;code>people&lt;/code>{.interpreted-text role=&amp;ldquo;doc&amp;rdquo;} to be enrolled.&lt;/p></description></item><item><title>Docs: Durian GPGPU Server</title><link>/docs/department-services/gpgpu-server/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>/docs/department-services/gpgpu-server/</guid><description>
 &lt;div class="pageinfo pageinfo-primary">
 &lt;p>This page needs improvement.&lt;/p>
 &lt;/div>
@@ -278,7 +278,7 @@ devicequery.txt
 &lt;a href="http://developer.download.nvidia.com/compute/cuda/3_2/docs/Getting_Started_Linux.pdf">http://developer.download.nvidia.com/compute/cuda/3_2/docs/Getting_Started_Linux.pdf&lt;/a>
 for additional details.&lt;/p>
 &lt;/li>
-&lt;/ol></description></item><item><title>Docs: Google Apps</title><link>https://systemshandbook.cs.luc.edu/docs/department-services/google-apps-cs/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://systemshandbook.cs.luc.edu/docs/department-services/google-apps-cs/</guid><description>
+&lt;/ol></description></item><item><title>Docs: Google Apps</title><link>/docs/department-services/google-apps-cs/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>/docs/department-services/google-apps-cs/</guid><description>
 &lt;p>The CS and Mathematics departments subscribe to Google Apps for Your
 Domain. Among other things, we can host sites, e-mail, documents,
 calendaring, etc. Our primary use at the moment is for Google Sites,
