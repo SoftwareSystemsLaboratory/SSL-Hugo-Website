@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Loyola CS Systems Guide – SSH</title><link>/tags/ssh/</link><description>Recent content in SSH on Loyola CS Systems Guide</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate><atom:link href="/tags/ssh/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Remote Access</title><link>/docs/how-to/remoteaccess/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>/docs/how-to/remoteaccess/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Loyola CS Systems Guide – SSH</title><link>https://softwaresystemslaboratory.github.io/SSL-Hugo-Website/tags/ssh/</link><description>Recent content in SSH on Loyola CS Systems Guide</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://softwaresystemslaboratory.github.io/SSL-Hugo-Website/tags/ssh/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Remote Access</title><link>https://softwaresystemslaboratory.github.io/SSL-Hugo-Website/docs/how-to/remoteaccess/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://softwaresystemslaboratory.github.io/SSL-Hugo-Website/docs/how-to/remoteaccess/</guid><description>
 &lt;p>All users of our systems can access their files remotely; however, we
 currently do not provide general support to students or faculty for
 Samba and CIFS shares (i.e. mounting as a Windows drive) owing largely
@@ -39,7 +39,7 @@ but these cost big money (between $75-$100) and are not likely to be
 cost effective (let alone necessary) for most members of our community.&lt;/p>
 &lt;h2 id="unison">Unison&lt;/h2>
 &lt;p>Unison is an excellent 2-way file synchronization tool. It supports all
-platforms.&lt;/p></description></item><item><title>Docs: Secure Shell</title><link>/docs/how-to/ssh/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>/docs/how-to/ssh/</guid><description>
+platforms.&lt;/p></description></item><item><title>Docs: Secure Shell</title><link>https://softwaresystemslaboratory.github.io/SSL-Hugo-Website/docs/how-to/ssh/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://softwaresystemslaboratory.github.io/SSL-Hugo-Website/docs/how-to/ssh/</guid><description>
 &lt;p>Not all computer systems in the department are intended for general use,
 and some are restricted to faculty and staff usage. (And many are
 reserved for testing purposes.) The systems available for general use

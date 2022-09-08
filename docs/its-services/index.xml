@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Loyola CS Systems Guide – ITS Services</title><link>/docs/its-services/</link><description>Recent content in ITS Services on Loyola CS Systems Guide</description><generator>Hugo -- gohugo.io</generator><atom:link href="/docs/its-services/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Printing</title><link>/docs/its-services/printing/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>/docs/its-services/printing/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Loyola CS Systems Guide – ITS Services</title><link>https://softwaresystemslaboratory.github.io/SSL-Hugo-Website/docs/its-services/</link><description>Recent content in ITS Services on Loyola CS Systems Guide</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://softwaresystemslaboratory.github.io/SSL-Hugo-Website/docs/its-services/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Printing</title><link>https://softwaresystemslaboratory.github.io/SSL-Hugo-Website/docs/its-services/printing/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>https://softwaresystemslaboratory.github.io/SSL-Hugo-Website/docs/its-services/printing/</guid><description>
 &lt;div class="pageinfo pageinfo-primary">
 &lt;p>This page needs some updates.&lt;/p>
 &lt;/div>
@@ -17,12 +17,12 @@ As with anything else in the Windows Labs, please report printing
 problems directly to ITS at &lt;a href="https://heatss.it.luc.edu/HeatLDAP/">https://heatss.it.luc.edu/HeatLDAP/&lt;/a>.&lt;/p>
 &lt;p>At this time, printing is not supported from the Linux labs in LT 412
 (at Water Tower Campus) and DH 341 (at Lake Shore Campus). In the
-interim, you will need to print from one of the adjacent Windows labs.&lt;/p></description></item><item><title>Docs: Virtual Private Network</title><link>/docs/its-services/vpn/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>/docs/its-services/vpn/</guid><description>
+interim, you will need to print from one of the adjacent Windows labs.&lt;/p></description></item><item><title>Docs: Virtual Private Network</title><link>https://softwaresystemslaboratory.github.io/SSL-Hugo-Website/docs/its-services/vpn/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>https://softwaresystemslaboratory.github.io/SSL-Hugo-Website/docs/its-services/vpn/</guid><description>
 &lt;p>There are a number of services (read: ports) that are firewalled because
 they&amp;rsquo;re not secure or under persistent threats from the outside.
 The university VPN allows you to access these services.&lt;/p>
 &lt;p>There is a self-service portal via ITS at &lt;a href="https://luc.saasit.com/">https://luc.saasit.com/&lt;/a>.&lt;/p>
-&lt;p>We recommend that all students working on advanced projects to get access to the VPN so they will run into few(er) surprises.&lt;/p></description></item><item><title>Docs: Windows Desktop Support</title><link>/docs/its-services/windows-desktop-support/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>/docs/its-services/windows-desktop-support/</guid><description>
+&lt;p>We recommend that all students working on advanced projects to get access to the VPN so they will run into few(er) surprises.&lt;/p></description></item><item><title>Docs: Windows Desktop Support</title><link>https://softwaresystemslaboratory.github.io/SSL-Hugo-Website/docs/its-services/windows-desktop-support/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>https://softwaresystemslaboratory.github.io/SSL-Hugo-Website/docs/its-services/windows-desktop-support/</guid><description>
 &lt;div class="pageinfo pageinfo-primary">
 &lt;p>Note: As of June 30, 2010, we no longer provide desktop computing
 support in the department.
@@ -33,7 +33,7 @@ This change does not prevent users from establishing their own standalone deskto
 &lt;h1 id="windows-desktop-support">Windows Desktop Support&lt;/h1>
 &lt;p>Windows desktop matters are handled by ITS.
 If you are experiencing trouble with Windows labs and other ITS issues, please open a support ticket at &lt;a href="https://luc.saasit.com/">https://luc.saasit.com/&lt;/a>.
-Linux and Mac desktop matters are the responsibility of individual faculty.&lt;/p></description></item><item><title>Docs: Windows Labs</title><link>/docs/its-services/windows-labs/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>/docs/its-services/windows-labs/</guid><description>
+Linux and Mac desktop matters are the responsibility of individual faculty.&lt;/p></description></item><item><title>Docs: Windows Labs</title><link>https://softwaresystemslaboratory.github.io/SSL-Hugo-Website/docs/its-services/windows-labs/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>https://softwaresystemslaboratory.github.io/SSL-Hugo-Website/docs/its-services/windows-labs/</guid><description>
 &lt;div class="pageinfo pageinfo-primary">
 &lt;/div>
 &lt;h1 id="windows-labs">Windows Labs&lt;/h1>
@@ -58,7 +58,7 @@ faculty member interested in testing.&lt;/p>
 &lt;p>Again, because the Windows hardware and software are now maintained by
 ITS, we ask that all issues you encounter be reported, no matter how
 trivial. If you discover broken hardware and/or software, use the &lt;a href="http://www.luc.edu/helpdesk/">ITS
-Help Desk&lt;/a>.&lt;/p></description></item><item><title>Docs: Wireless</title><link>/docs/its-services/wireless/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>/docs/its-services/wireless/</guid><description>
+Help Desk&lt;/a>.&lt;/p></description></item><item><title>Docs: Wireless</title><link>https://softwaresystemslaboratory.github.io/SSL-Hugo-Website/docs/its-services/wireless/</link><pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate><guid>https://softwaresystemslaboratory.github.io/SSL-Hugo-Website/docs/its-services/wireless/</guid><description>
 &lt;div class="pageinfo pageinfo-primary">
 &lt;p>We can also add some discussion of the nuances here.&lt;/p>
 &lt;/div>
