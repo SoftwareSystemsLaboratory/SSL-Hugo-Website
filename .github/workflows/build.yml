@@ -34,6 +34,7 @@ jobs:
 
       - run: npm install
       - run: hugo --minify
+      - run: echo ssl.cs.luc.edu > ./public/CNAME
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
